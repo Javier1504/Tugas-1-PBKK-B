@@ -1,0 +1,5 @@
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\PBKK-B-tugas1\PBKK-B-tugas1\obj\Debug\PBKK-B-tugas1.csproj.AssemblyReference.cache
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\PBKK-B-tugas1\PBKK-B-tugas1\obj\Debug\PBKK_B_tugas1.Form1.resources
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\PBKK-B-tugas1\PBKK-B-tugas1\obj\Debug\PBKK_B_tugas1.Properties.Resources.resources
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\PBKK-B-tugas1\PBKK-B-tugas1\obj\Debug\PBKK-B-tugas1.csproj.GenerateResource.cache
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\PBKK-B-tugas1\PBKK-B-tugas1\obj\Debug\PBKK-B-tugas1.csproj.CoreCompileInputs.cache
